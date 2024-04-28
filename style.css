@@ -1,0 +1,57 @@
+
+
+
+
+/* CSS untuk tombol Daftar */
+.btn-daftar {
+    background-color: transparent;
+    border: 2px solid #2e0eb9; 
+    color: #2e0eb9;
+    padding: 10px 20px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px; 
+    transition-duration: 0.2s;
+    margin: 5px; 
+}
+  
+  .btn-daftar:hover {
+    background-color: #280dc2; 
+    color: rgb(255, 255, 255); 
+  }
+
+/* CSS untuk tombol Masuk */
+.btn-masuk {
+    background-color: transparent;
+    border: 2px solid #00e01e; 
+    color: #00e01e;
+    padding: 10px 20px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px; 
+    transition-duration: 0.2s;
+    margin: 5px; 
+}
+  
+  .btn-masuk:hover {
+    background-color: #00e01e; 
+    color: rgb(219, 219, 223); 
+  }
+  
+
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+
+
